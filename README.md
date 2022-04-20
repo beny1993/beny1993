@@ -15,7 +15,7 @@ hi, i'm Benyamin Chehrazi, a passionate self-taught front-end web developer and 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](benyamin.chehrazi@gmail.com) :)
+- 💼 any freelance work? do reach, [email](gmail:benyamin.chehrazi@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 
@@ -60,5 +60,4 @@ hi, i'm Benyamin Chehrazi, a passionate self-taught front-end web developer and 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beny1993&show_icons=true&theme=dracula)
-)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beny1993&show_icons=true&theme=dracula))](https://github.com/anuraghazra/github-readme-stats)

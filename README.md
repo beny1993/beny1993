@@ -1,11 +1,5 @@
 <h1 align="center"> Hi there I am Benyamin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-<a href="https://www.linkedin.com/in/benyamin-chehrazi-b68a36169/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-
-
 <br />
 
 hi, i'm Benyamin Chehrazi, a passionate self-taught front-end web developer and a freelance software engineer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.

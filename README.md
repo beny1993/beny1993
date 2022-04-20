@@ -14,7 +14,7 @@ hi, i'm Benyamin Chehrazi, a passionate self-taught front-end web developer and 
 </a>
 - 💬 ask me about anything, i am happy to help;
 
-
+</br>
 
 <h3>Things I code with</h3>
 <p>
@@ -51,7 +51,7 @@ hi, i'm Benyamin Chehrazi, a passionate self-taught front-end web developer and 
 
 
 
-
+</br>
 
 
 

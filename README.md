@@ -16,6 +16,9 @@ hi, i'm Benyamin Chehrazi, a passionate self-taught front-end web developer and 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](gmail:benyamin.chehrazi@gmail.com) :)
+- <a href="https://www.linkedin.com/in/benyamin-chehrazi-b68a36169/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 - 💬 ask me about anything, i am happy to help;
 
 

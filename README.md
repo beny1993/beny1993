@@ -2,18 +2,17 @@
 
 <br />
 
-hi, I'm Benyamin Chehrazi, a passionate self-taught front-end web developer and a freelance software engineer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+hi, I'm Benyamin Chehrazi, a passionate self-taught front-end web developer and freelance software engineer. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- <a href="https://www.linkedin.com/in/benyamin-chehrazi-b68a36169/">  💼 any freelance work? do reach, 
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+- <a href="https://www.linkedin.com/in/benyamin-chehrazi/">  💼 any freelance work? do reach, 
+  <img align="left" alt="benyamins's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-- 💬 ask me about anything, i am happy to help;
-
+- 💬 ask me about anything, I am happy to help.
 </br>
 
 <h3>Things I code with</h3>

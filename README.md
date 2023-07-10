@@ -8,11 +8,11 @@ hi, I'm Benyamin Chehrazi, a passionate self-taught front-end web developer and 
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- <a href="https://www.linkedin.com/in/benyamin-chehrazi/">  💼 any freelance work? do reach, 
-  <img align="left" alt="benyamins's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/benyamin-chehrazi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/benyamin-chehrazi/" height="30" width="40" /></a>
 - 💬 ask me about anything, I am happy to help.
+</p>
 </br>
 
 <h3>Things I code with</h3>
@@ -55,4 +55,4 @@ hi, I'm Benyamin Chehrazi, a passionate self-taught front-end web developer and 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beny1993&show_icons=true&theme=dracula))](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beny1993&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
